@@ -1,15 +1,15 @@
-# 👋 Hi
+# Hi, I'm João 👋
 
-I'm a hands-on technical leader and software engineer with over a decade of experience building secure, scalable systems from blockchain infrastructure to real-time bidding platforms and AI workflows.
+I’m a Staff Software Engineer and Founder of [Somazero](https://somazeroworks.com).
 
-## 🚀 About Me
+I enjoy building backend systems, APIs, data pipelines and AI workflows — especially in fintech, crypto and cloud-heavy environments.
 
-- 🧠 Passionate about building new products from 0 → 1
-- 🛠️ Experienced across backend, cloud infrastructure (AWS/GCP), crypto/fintech domains and AI workflows
-- 🌍 Based in Porto, Portugal and working globally and remotely
+**Current stack**
 
-## 🛠 Tech Stack
+Node.js · TypeScript · Go · Python  
+PostgreSQL · MongoDB · RabbitMQ  
+AWS · GCP · Docker · Kubernetes · Terraform
 
-Node.js · TypeScript · Golang · Python · PostgreSQL · MongoDB · DynamoDB · Paperclip · Docker · Kubernetes · Argo CD · Terraform · Github Actions · Web3 · Prometheus/Grafana
+Based in Porto, working remotely.
 
-📫 Connect on [LinkedIn](https://linkedin.com/in/joaohrpereira).
+[LinkedIn](https://www.linkedin.com/in/joaohrpereira/) · [Somazero](https://somazeroworks.com)
